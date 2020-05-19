@@ -1,2 +1,3 @@
 # javascript_challenge
-Javascript homework for Data_Vis BootCamp
+The latest version of the files are in the static_ folder. It works as far as getting the 
+data listed on the html as a table. 
